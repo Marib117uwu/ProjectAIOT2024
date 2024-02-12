@@ -37,4 +37,14 @@
 |    |                     |           |            |               |            |
 
 
+##Prototipo en dibujo
+-Colocara imagen de tu proyecto al iniciar el desarrollo
+
+#Evidencias de funcionamiento
+-Captura de pantalla de flujos de Node-Red.
+-Captura de las pantallas del proyecto DASHBOARD y pantalla de la ESP32
+-Video demostrativo de las funcionalidades del proyecto.
+-Código fuente (PROHIBIDO PONER COMPRIMIDOS)
+
+
 
