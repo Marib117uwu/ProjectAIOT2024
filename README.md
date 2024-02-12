@@ -21,3 +21,20 @@
 |    |           |             |        |          |             |
 
 ##Visión del producto
+
+
+
+##Conexiones
+-Imagenes de wokwi, Fritzing o de otro software que me permita mostrar las conexiones del circuito.
+-Raspberry
+-ESP 32
+
+##Funcionalidades del proyecto
+| ID | Historia de usuario | Prioridad | Estimación | Como probarlo | Esponsable | 
+-----|---------------------|-----------|------------|---------------|------------|
+|    |                     |           |            |               |            |
+|    |                     |           |            |               |            | 
+|    |                     |           |            |               |            |
+
+
+
